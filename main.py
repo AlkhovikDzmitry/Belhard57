@@ -3,3 +3,6 @@ text: str = "Hello python "
 print('-'.join(text))
 #Второй способ.
 print("hello",  "python", sep="-")
+
+
+
